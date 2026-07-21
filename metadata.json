@@ -1,0 +1,6 @@
+{
+  "name": "KARA ERP",
+  "description": "An advanced enterprise resource planning (ERP) system integrated with Google Workspace (Drive and Sheets) to manage business documents and financial spreadsheets efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
